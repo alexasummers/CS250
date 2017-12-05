@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1504840534 source:/home/alexa/Documents/basic_data_structures_using_c++/c++_extra_files/lab_four_files/Lab 04 - Testing/lab04_testing.cpp
+	<iostream>
+	<string>
+	"lab04_function1.hpp"
+	"lab04_function2.hpp"
+	"lab04_function3.hpp"
+	"lab04_function4.hpp"
+
+1504841134 /home/alexa/Documents/basic_data_structures_using_c++/c++_extra_files/lab_four_files/Lab 04 - Testing/lab04_function1.hpp
+
+1504841839 /home/alexa/Documents/basic_data_structures_using_c++/c++_extra_files/lab_four_files/Lab 04 - Testing/lab04_function2.hpp
+
+1504841948 /home/alexa/Documents/basic_data_structures_using_c++/c++_extra_files/lab_four_files/Lab 04 - Testing/lab04_function3.hpp
+	<string>
+
+1504842671 /home/alexa/Documents/basic_data_structures_using_c++/c++_extra_files/lab_four_files/Lab 04 - Testing/lab04_function4.hpp
+	<string>
+

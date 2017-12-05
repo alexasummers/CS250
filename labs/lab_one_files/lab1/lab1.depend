@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1503552970 source:/home/alexa/Documents/lab1/main.cpp
+	<iostream>
+	<vector>
+	<string>
+
+1503606960 source:/home/alexa/Documents/lab1/main2.cpp
+	<iostream>
+	<list>
+	<string>
+

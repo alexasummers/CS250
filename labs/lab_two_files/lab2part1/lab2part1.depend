@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1504069437 source:/home/alexa/Documents/lab2part1/lab2part1.cpp
+	"lab2_RecordManager.hpp"
+	<iostream>
+
+1504067552 /home/alexa/Documents/lab2part1/lab2_RecordManager.hpp
+	<string>
+	<iostream>
+	<fstream>
+	<stdexcept>
+

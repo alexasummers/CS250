@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1507179286 source:/home/alexa/Documents/basic_data_structures_using_c++/c++_extra_files/lab_eight_files/Lab 08 - Templates/lab8.cpp
+	<iostream>
+	<string>
+	"lab8_sorting.hpp"
+	"lab8_arraywrapper.hpp"
+
+1507176291 /home/alexa/Documents/basic_data_structures_using_c++/c++_extra_files/lab_eight_files/Lab 08 - Templates/lab8_sorting.hpp
+
+1507241312 /home/alexa/Documents/basic_data_structures_using_c++/c++_extra_files/lab_eight_files/Lab 08 - Templates/lab8_arraywrapper.hpp
+
